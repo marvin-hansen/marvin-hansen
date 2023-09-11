@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [DeepCausality]([url](https://github.com/deepcausality-rs/deep_causality#readme))
 - 🌱 I’m currently learning computational causality in Rust
 - 💬 Ask me about computational causality in Rust :-)
-- 📫 How to reach me: [Good old email]([url](https://deepcausality.com/contact/))
+- 📫 How to reach me: Good old email https://deepcausality.com/contact/
 - ⚡ Fun fact: I add one later
 
 <!--
