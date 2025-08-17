@@ -8,4 +8,4 @@
 - 👷 Author of the the Build Utils for Bazel and BuildBuddy: https://github.com/marvin-hansen/buildutils
 - 👷‍♂️ Contributor to the Apache Iggy project: https://github.com/apache/iggy
 - 💚 Contributed the Rust examples to the Bazel project: https://github.com/bazelbuild/examples/tree/main/rust-examples
-- 📫 How to reach me: Good old email: marvin.hansen@gmail.com | Please no crypto-scam job emails. 
+- 📫 How to reach me: Good old email: marvin.hansen@gmail.com 
